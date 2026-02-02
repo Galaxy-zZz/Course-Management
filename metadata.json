@@ -1,0 +1,5 @@
+{
+  "name": "Course Management System",
+  "description": "A responsive course listing application with filtering, sorting, and view switching capabilities, migrated to React for better maintainability and logic handling.",
+  "requestFramePermissions": []
+}
